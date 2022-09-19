@@ -1,0 +1,4 @@
+Hi, this is the example text file for my project.
+Here, the main keywords will be extracted and will be shown to the users.
+Same as you have seen the RESUME selector application, used to select and shorlist the resume based on the keywords.
+Same you can apply here also..........
